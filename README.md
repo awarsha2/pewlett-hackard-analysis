@@ -30,7 +30,7 @@ To analyze employee data from a business to help prepare for an upcoming 'silver
 	![retiring_titles_table.png](images/retiring_titles_table.png)
 	![total_expected_retirees.png](images/total_expected_retirees.png)
 	- As shown in the prior tables, it is expected that a total of 72,458 roles need to be filled. 
-		-The majority of these roles are "Senior Engineers" or "Senior Staff" which will be particularly difficult to replace. 
+		- The majority of these roles are "Senior Engineers" or "Senior Staff" which will be particularly difficult to replace. 
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
