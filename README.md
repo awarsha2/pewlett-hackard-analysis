@@ -39,7 +39,7 @@ To analyze employee data from a business to help prepare for an upcoming 'silver
 	- It is recommended to either expand the age and experience range for the mentorship program or look outside the company, perhaps delegating the responsibilities of retiring workers to experienced contractors or smaller buisinesses. 
 	
 	![mentorship_eligibility_expanded_count_table.png](images/mentorship_eligibility_expanded_count_table.png)
-	- As shown in the prior table, by expanding the mentorship eligibility age demographic from a one year range(born in 1962/exactly 57 years old) to a four year range(born between 1962 and 1965/between 57 and 60 years old), the company can easily source enough Managers, Technique Leaders, Assistant Engineers, normal Engineers and basic Staff for their mentorship program. However, for the Senior level positions, the range will need to be expanded further.
+	- As shown in the prior table, by expanding the mentorship eligibility age demographic from a one year range(born in 1962/exactly 57 years old) to a four year range(born between 1962 and 1965/between 57 and 60 years old), the company can easily source enough Managers, Technique Leaders, Assistant Engineers, normal Engineers and basic Staff for their mentorship program. However, for the Senior level positions, the range will need to be expanded further, or other measures need to be taken.
 		- It is out of scope of this analysis to make conclusions or speculations about the efficacy of outsourcing these empty roles. 
 
 
