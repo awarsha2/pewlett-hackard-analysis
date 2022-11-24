@@ -8,7 +8,7 @@ To analyze employee data from a business to help prepare for an upcoming 'silver
 - determining the number of retiring employees per title,
 - identifying employees that are eligible to participate in a mentorship program.
 
-##Results
+## Results
 - The [retirement_titles.csv](data/retirement_titles.csv) file is not very useful. 
 	- It has many extraneous entries, likely from employees who have gotten promotions, shuffled departments, or simply left the company. 
 	- However, it was a good starting point for further analysis which led to other helpful .csv files.
@@ -24,7 +24,7 @@ To analyze employee data from a business to help prepare for an upcoming 'silver
 	- Not useful at a glance due to being thousands of lines long. 
 	- Further analysis required to make solid conclusions. 
 
-##Summary
+## Summary
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 	![retiring_titles_table.png](images/retiring_titles_table.png)
 	![total_expected_retirees.png](images/total_expected_retirees.png)
